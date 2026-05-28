@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+metrics/
+saved_models/
+tuning_results/
+example_spectrograms/
